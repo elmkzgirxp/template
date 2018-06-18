@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="widget_label">
+        <item name="android:textSize">@*com.android.systemui:dimen/widget_label_font_size</item>
+    </style>
+    <style name="widget_big_thin">
+        <item name="android:textSize">@*com.android.systemui:dimen/widget_big_font_size</item>
+        <item name="android:fontFamily">google-sans</item>
+        <item name="android:fontFeatureSettings">ss03</item>
+    </style>
+</resources>
